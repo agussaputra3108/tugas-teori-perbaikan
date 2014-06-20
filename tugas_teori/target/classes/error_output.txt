@@ -1,0 +1,4 @@
+baris,keterangan
+1,Format tanggal salah
+3,Jumlah field kurang
+5,NPM haarus unik
